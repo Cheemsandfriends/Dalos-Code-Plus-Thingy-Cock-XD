@@ -14,13 +14,9 @@ THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
 IF YOU WANT TO PLAY THE NORMAL MOD THEN GO TO THE GAME BANANA STUFF!!!!!
 
-ORIGINAL GAME!!!!!
+[ORIGINAL GAME!!!!!](https://ninja-muffin24.itch.io/funkin)
 
-https://ninja-muffin24.itch.io/funkin
-
-MOD!!!!!
-
-https://gamebanana.com/wips/55350
+[MOD!!!!!](https://gamebanana.com/wips/55350)
 
 IF YOU WANT TO MAKE THIS SHITTY MOD BETTER CONTINUE READIN THIS!!!!
 

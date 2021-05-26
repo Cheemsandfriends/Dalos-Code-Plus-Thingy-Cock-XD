@@ -1,10 +1,10 @@
-# Friday Night Funkin
-
+# Dalos Mod Thingy
 This is the Thingy About I made About Dalos
+So yeah... Don't get too harsh xd
 ## Credits / shoutouts
 
 - [MrcheemsandFriends (me!)](https://www.twitch.tv/mrcheemsandfriends) - programmer And the Dumb Dog
-- [The stuff who made them game] Yeah so Ninja muffin 99 Kawaiisprite and Phantom arcade made this beautiful shit.
+- The stuff who made them game Yeah so Ninja muffin 99 Kawaiisprite and Phantom arcade made this beautiful shit.
 
 This game Was made in a Ludum Dare, Later To Newgrounds. Love (Not Extra) To Tom Fulp
 

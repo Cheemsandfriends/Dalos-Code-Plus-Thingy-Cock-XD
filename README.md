@@ -1,28 +1,28 @@
 # Friday Night Funkin
 
-This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
-
-Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-funkin
-Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
-Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
-
+This is the Thingy About I made About Dalos
 ## Credits / shoutouts
 
-- [ninjamuffin99 (me!)](https://twitter.com/ninja_muffin99) - Programmer
-- [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
-- [Kawaisprite](https://twitter.com/kawaisprite) - Musician
+- [MrcheemsandFriends (me!)](https://www.twitch.tv/mrcheemsandfriends) - programmer And the Dumb Dog
+- [The stuff who made them game] Yeah so Ninja muffin 99 Kawaiisprite and Phantom arcade made this beautiful shit.
 
-This game was made with love to Newgrounds and it's community. Extra love to Tom Fulp.
+This game Was made in a Ludum Dare, Later To Newgrounds. Love (Not Extra) To Tom Fulp
 
 ## Build instructions
 
 THESE INSTRUCTIONS ARE FOR COMPILING THE GAME'S SOURCE CODE!!!
 
-IF YOU WANT TO JUST DOWNLOAD AND INSTALL AND PLAY THE GAME NORMALLY, GO TO ITCH.IO TO DOWNLOAD THE GAME FOR PC, MAC, AND LINUX!!
+IF YOU WANT TO PLAY THE NORMAL MOD THEN GO TO THE GAME BANANA STUFF!!!!!
+
+ORIGINAL GAME!!!!!
 
 https://ninja-muffin24.itch.io/funkin
 
-IF YOU WANT TO COMPILE THE GAME YOURSELF, CONTINUE READING!!!
+MOD!!!!!
+
+https://gamebanana.com/wips/55350
+
+IF YOU WANT TO MAKE THIS SHITTY MOD BETTER CONTINUE READIN THIS!!!!
 
 ### Installing the Required Programs
 
@@ -51,25 +51,6 @@ You should have everything ready for compiling the game! Follow the guide below 
 At the moment, you can optionally fix the transition bug in songs with zoomed out cameras.
 - Run `haxelib git flixel-addons https://github.com/HaxeFlixel/flixel-addons` in the terminal/command-prompt.
 
-### Ignored files
-
-I gitignore the API keys for the game, so that no one can nab them and post fake highscores on the leaderboards. But because of that the game
-doesn't compile without it.
-
-Just make a file in `/source` and call it `APIStuff.hx`, and copy paste this into it
-
-```haxe
-package;
-
-class APIStuff
-{
-	public static var API:String = "";
-	public static var EncKey:String = "";
-}
-
-```
-
-and you should be good to go there.
 
 ### Compiling game
 
